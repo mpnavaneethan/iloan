@@ -1,5 +1,5 @@
 <?php
-
+echo "test"; exit;
 // Show all information, defaults to INFO_ALL
 phpinfo();
 
